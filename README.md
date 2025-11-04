@@ -36,7 +36,7 @@ Version Control	Git, GitHub
 
 Clone the repository
 
-git clone https://github.com/yourusername/Fraud-Detection-System.git
+git clone https://github.com/sailesh-123/Fraud-Detection-System.git
 cd Fraud-Detection-System
 
 Install dependencies
